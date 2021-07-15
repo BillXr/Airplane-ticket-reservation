@@ -6,3 +6,4 @@ public class Airticketapp {
         frame.prepareui();}
 }
 
+
