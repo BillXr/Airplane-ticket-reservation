@@ -1,5 +1,6 @@
 package Airtickets;
  
+
 public class Tickets {
 	String ticket_id;
 	String issue_date;
