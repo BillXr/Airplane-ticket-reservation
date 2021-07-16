@@ -1,8 +1,4 @@
 package Airtickets;
-
-
-/*dilwsi klasis Tickets me attributes(5 arxika kai 4 epipleon poy prosthesa(etairia,ilikia,varos valitsas,ipsos)
- * simperilamvanontai setters,getters,constructors kai i sinartisi toString*/
  
 public class Tickets {
 	String ticket_id;
